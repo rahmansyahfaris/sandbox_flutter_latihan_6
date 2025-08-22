@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+HSI Sandbox Flutter Pertemuan 6 Submission Note App UI Implementation
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
